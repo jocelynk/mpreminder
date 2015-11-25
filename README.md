@@ -1,0 +1,1 @@
+This repo is checks the db regularly and send reminders to users via text messaging.
